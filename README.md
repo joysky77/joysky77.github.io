@@ -3,6 +3,7 @@
 [JoySky Tools](https://joysky77.github.io/) is a small collection of local-first CSV and delivery utilities.
 
 - [CSV Encoding Checker](https://joysky77.github.io/csv-cleanup-services/csv-encoding-checker.html) — free, browser-local UTF-8 and GB18030 diagnosis.
+- [CSV Encoding Repair Guide](https://joysky77.github.io/csv-cleanup-services/fix-chinese-csv-encoding.html) — conservative UTF-8, GB18030 and Excel workflow with a [Chinese version](https://joysky77.github.io/csv-cleanup-services/fix-chinese-csv-encoding-zh.html).
 - [CSV Duplicate Row Checker](https://joysky77.github.io/csv-cleanup-services/csv-duplicate-checker.html) — free, browser-local exact duplicate counting.
 - [CSV Duplicate Row Removal Guide](https://joysky77.github.io/csv-cleanup-services/remove-duplicate-rows-csv-offline.html) — conservative local workflow for exact-row detection, removal and validation.
 - [CSV重复行清理说明](https://joysky77.github.io/csv-cleanup-services/remove-duplicate-rows-csv-offline-zh.html) — 中文本地处理流程，区分精确重复和业务重复。
