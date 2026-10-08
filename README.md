@@ -5,6 +5,7 @@
 - [CSV Encoding Checker](https://joysky77.github.io/csv-cleanup-services/csv-encoding-checker.html) — free, browser-local UTF-8 and GB18030 diagnosis.
 - [CSV Duplicate Row Checker](https://joysky77.github.io/csv-cleanup-services/csv-duplicate-checker.html) — free, browser-local exact duplicate counting.
 - [CSV Formula Risk Checker](https://joysky77.github.io/csv-cleanup-services/csv-formula-risk-checker.html) — free, browser-local review of formula-like cells.
+- [CSV Formula Injection Prevention Guide](https://joysky77.github.io/csv-cleanup-services/prevent-csv-formula-injection.html) — source-linked English guidance with a [Chinese version](https://joysky77.github.io/csv-cleanup-services/csv-formula-injection-prevention-zh.html).
 - [CSV Desk 1.0.0](https://joysky7777.itch.io/csv-desk) — $9 one-time offline cleanup download.
 - [CSV Formula Safety Fix](https://joysky77.github.io/csv-cleanup-services/csv-formula-safety-service.html) — $12 fixed scope after review, delivered as a separate CSV and JSON audit report.
 - [CSV Cleanup Service](https://joysky77.github.io/csv-cleanup-services/csv-cleanup-service.html) — $25 fixed scope after quote confirmation.
